@@ -33,3 +33,18 @@ This comprehensive HR Analytics Dashboard provides actionable insights into work
 - **Department Efficiency**: Multi-metric performance ranking system
 
 ## 📁 Project Structure
+workforce-analytics-hub/
+├── README.md
+├── data/raw/dataset.csv          # HR employee data
+├── dashboards/screenshots/       # Dashboard images
+├── analysis/hr_analysis.R       # Statistical analysis code
+└── docs/data_dictionary.md      # Data documentation
+
+## 🛠️ Technologies Used
+- **Visualization**: Power BI / Tableau
+- **Analytics**: R Programming
+- **Statistical Methods**: Regression, Random Forest, Clustering
+- **Data Processing**: dplyr, ggplot2, caret
+
+---
+*This project showcases end-to-end data analytics skills from visualization to advanced statistical modeling, demonstrating ability to solve real business problems with data.*
