@@ -2,6 +2,9 @@
 
 # 📊 Workforce Analytics Hub
 
+![Dashboard Preview](dashboards/screenshots/Main-Dashboard.jpg)
+
+
 ## Project Overview
 This comprehensive HR Analytics Dashboard provides actionable insights into workforce demographics, performance metrics, and organizational trends. Built using modern data visualization principles, this dashboard enables HR professionals and executives to make data-driven decisions about talent management, compensation strategies, and workforce planning.
 
