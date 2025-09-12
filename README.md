@@ -41,7 +41,7 @@ workforce-analytics-hub/
 └── docs/data_dictionary.md      # Data documentation
 
 ## 🛠️ Technologies Used
-- **Visualization**: Power BI / Tableau
+- **Visualization**: Tableau
 - **Analytics**: R Programming
 - **Statistical Methods**: Regression, Random Forest, Clustering
 - **Data Processing**: dplyr, ggplot2, caret
