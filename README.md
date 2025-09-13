@@ -3,7 +3,7 @@
 # 📊 Workforce Analytics Hub
 
 ![Dashboard Preview](dashboards/screenshots/Dashboard.png)
-👉 [Click here to view the Interactive Tableau Dashboard]([https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/app/profile/yassir.sa6805/viz/HRDashboard_17575979441670/HRSummary?publish=yes))
+👉 [Click here to view the Interactive Tableau Dashboard]([https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/app/profile/yassir.sa6805/viz/HRDashboard_17575979441670/HRSummary?publish=yes]))
 
 ## Project Overview
 This comprehensive HR Analytics Dashboard provides actionable insights into workforce demographics, performance metrics, and organizational trends. Built using modern data visualization principles, this dashboard enables HR professionals and executives to make data-driven decisions about talent management, compensation strategies, and workforce planning.
