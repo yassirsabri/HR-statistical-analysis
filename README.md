@@ -2,7 +2,7 @@
 
 # 📊 Workforce Analytics Hub
 
-![Dashboard Preview](dashboards/screenshots/Main Dashboard.png)
+![Dashboard Preview](dashboards/screenshots/Dashboard.png)
 
 
 ## Project Overview
